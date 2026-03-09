@@ -1,7 +1,7 @@
 # Hi there, I'm NocTuax! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/NocTuax?style=social)](https://github.com/NocTuax)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/username](https://www.linkedin.com/in/muhamad-yusril-malakaini-06704b360)
 
 ## 🚀 About Me
 **IT Student & Cybersecurity Enthusiast** passionate about:
