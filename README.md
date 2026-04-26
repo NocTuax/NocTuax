@@ -13,16 +13,6 @@
 
 Currently focused on building hands-on cybersecurity labs to detect OWASP Top 10 vulnerabilities using Wazuh SIEM.
 
-## 🏆 Featured Projects
-
-### 🛡️ [OWASP Detection Lab](https://github.com/NocTuax/OWASP-Detection-Lab)
-Wazuh Detection Engineering lab for monitoring OWASP Top 10 attacks:
-- ✅ **A07: Authentication Failures** - Brute Force detection with Hydra
-- ✅ **A05: Injection** - SQL Injection detection with SQLMap
-- ✅ **A02: Security Misconfiguration** - Nuclei scanner detection *(Coming Soon)*
-
-### 🏠 [Wazuh Home Lab](https://github.com/NocTuax/wazuh-home-lab)
-Complete Wazuh + Suricata home lab setup for attack simulation and detection.
 
 ## 🛠️ Tech Stack & Tools
 
