@@ -40,7 +40,7 @@ Coming soon: Wakatime integration untuk menampilkan coding activity
 -->
 
 ## 🎯 Current Focus
-- 🔭 Building **OWASP Detection Lab** series (A03, A04 coming soon!)
+- 🔭 Building **SOC ANALYST LAB** 
 - 🌱 Learning **Advanced Threat Hunting** & **Incident Response**
 - 👯 Looking to collaborate on **Cybersecurity Projects**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/muhamad-yusril-malakaini-06704b360) or [Email](mailto:emailanda@gmail.com)
